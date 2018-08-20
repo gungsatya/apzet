@@ -11,37 +11,37 @@ Tahap akhir dari pembuatan aplikasi ini adalah tahap uji coba aplikasi untuk men
 
 ## C.	Kode Program
 Kode program tidak secara rinci akan dijelaskan dikarenakan kode program dari aplikasi APZET yang banyak dan tidak bisa dijelaskan satu per satu. Untuk itu, pada bagian ini akan dijelaskan secara garis besar kode program java yang ada didalam aplikasi APZET.
-No.	Nama Kode (.java)	Penjelasan
-1	LogTest -	Kode program ini berfungsi untuk berhubungan langsung dengan data yang ada dalam database local SQLite.
-2	MainActivity - Kode program dari halaman main menu di APZET yang berfungsi sebagai portal menuju metode-metode tes. 
-3	SignInActivity -	Kode program dari halaman sign in untuk mencatat data dari pengguna aplikasi dan dimasukan kedalam basis data.
-4	SplashScreen -	Kode program dari tampilan awal saat membuka aplikasi yang sering disebut dengan splash screen.
-5	TodoCursorAdapter -	Kode program dari program untuk menampilkan data yang diperoleh dari basisdata.
-6	ViewResultAcitivity -	Kode program yang berfungsi menampilkan rekaman data hasil tes dari pengguna aplikasi.
-7	BASQuest1Activity -	Kode program dari pertanyaan 1 metode BAS
-8	BASQuest2Activity -	Kode program dari pertanyaan 2 metode BAS
-9	BASQuest3Activity -	Kode program dari pertanyaan 3 metode BAS
-10	BASQuest4Activity -	Kode program dari pertanyaan 4 metode BAS
-11	BASQuest5Activity -	Kode program dari pertanyaan 5 metode BAS
-12	MISQuest1Activity -	Kode program dari pertanyaan 1 metode MIS
-13	MISQuest2Chap1Activity -	Kode program dari pertanyaan 2 bagian 1 MIS
-14	MISQuest2Chap2Activity -	Kode program dari pertanyaan 2 bagian 2 MIS
-15	MISQuest2Chap3Activity -	Kode program dari pertanyaan 2 bagian 3 MIS
-16	MISQuest2Chap4Activity -	Kode program dari pertanyaan 2 bagian 4 MIS
-17	MISQuest2Chap5Activity -	Kode program dari pertanyaan 2 bagian 5 MIS
-18	MISQuest3Activity -	Kode program dari pertanyaan 3 metode MIS
-19	MISQuest4Activity -	Kode program dari pertanyaan 4 metode MIS
-20	MISQuest5Activity -	Kode program dari pertanyaan 5 metode MIS
-21	SCITQuest1Activity -	Kode program dari pertanyaan 1 metode 6CIT
-22	SCITQuest2Activity -	Kode program dari pertanyaan 2 metode 6CIT
-23	SCITQuest3Activity -	Kode program dari pertanyaan 3 metode 6CIT
-24	SCITQuest4Activity -	Kode program dari pertanyaan 4 metode 6CIT
-25	SCITQuest5Activity -	Kode program dari pertanyaan 5 metode 6CIT
-26	SCITQuest6Activity -	Kode program dari pertanyaan 6 metode 6CIT
-27	SCITQuest7Activity -	Kode program dari pertanyaan 7 metode 6CIT
-28	BASResultActivity -	Kode program untuk menampilkan hasil dari metode BAS
-29	MISResultActivity -	Kode program untuk menampilkann hasil dari metode MIS
-30	SCITResultActivity -	Kode program untuk menampilkan hasil dari merode 6CIT
+
+-	LogTest -	Kode program ini berfungsi untuk berhubungan langsung dengan data yang ada dalam database local SQLite.
+-	MainActivity - Kode program dari halaman main menu di APZET yang berfungsi sebagai portal menuju metode-metode tes. 
+-	SignInActivity -	Kode program dari halaman sign in untuk mencatat data dari pengguna aplikasi dan dimasukan kedalam basis data.
+-	SplashScreen -	Kode program dari tampilan awal saat membuka aplikasi yang sering disebut dengan splash screen.
+-	TodoCursorAdapter -	Kode program dari program untuk menampilkan data yang diperoleh dari basisdata.
+-	ViewResultAcitivity -	Kode program yang berfungsi menampilkan rekaman data hasil tes dari pengguna aplikasi.
+-	BASQuest1Activity -	Kode program dari pertanyaan 1 metode BAS
+-	BASQuest2Activity -	Kode program dari pertanyaan 2 metode BAS
+-	BASQuest3Activity -	Kode program dari pertanyaan 3 metode BAS
+-	BASQuest4Activity -	Kode program dari pertanyaan 4 metode BAS
+-	BASQuest5Activity -	Kode program dari pertanyaan 5 metode BAS
+-	MISQuest1Activity -	Kode program dari pertanyaan 1 metode MIS
+-	MISQuest2Chap1Activity -	Kode program dari pertanyaan 2 bagian 1 MIS
+-	MISQuest2Chap2Activity -	Kode program dari pertanyaan 2 bagian 2 MIS
+-	MISQuest2Chap3Activity -	Kode program dari pertanyaan 2 bagian 3 MIS
+-	MISQuest2Chap4Activity -	Kode program dari pertanyaan 2 bagian 4 MIS
+-	MISQuest2Chap5Activity -	Kode program dari pertanyaan 2 bagian 5 MIS
+-	MISQuest3Activity -	Kode program dari pertanyaan 3 metode MIS
+-	MISQuest4Activity -	Kode program dari pertanyaan 4 metode MIS
+-	MISQuest5Activity -	Kode program dari pertanyaan 5 metode MIS
+-	SCITQuest1Activity -	Kode program dari pertanyaan 1 metode 6CIT
+-	SCITQuest2Activity -	Kode program dari pertanyaan 2 metode 6CIT
+-	SCITQuest3Activity -	Kode program dari pertanyaan 3 metode 6CIT
+-	SCITQuest4Activity -	Kode program dari pertanyaan 4 metode 6CIT
+-	SCITQuest5Activity -	Kode program dari pertanyaan 5 metode 6CIT
+-	SCITQuest6Activity -	Kode program dari pertanyaan 6 metode 6CIT
+-	SCITQuest7Activity -	Kode program dari pertanyaan 7 metode 6CIT
+-	BASResultActivity -	Kode program untuk menampilkan hasil dari metode BAS
+-	MISResultActivity -	Kode program untuk menampilkann hasil dari metode MIS
+-	SCITResultActivity -	Kode program untuk menampilkan hasil dari merode 6CIT
 
 
 
